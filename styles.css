@@ -10,7 +10,9 @@ h1 {
   text-shadow: 3px 0 #DA0463;
 
 }
-
+.tune{
+  padding: 10% 7%;
+}
 footer {
   color: black;
   font-family: sans-serif;
